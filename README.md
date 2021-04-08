@@ -1,4 +1,6 @@
-# Getting Started with Create React App
++ API and RTMP requests (+2 separated files with "npm start")
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
